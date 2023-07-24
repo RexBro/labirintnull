@@ -117,5 +117,3 @@ while run:
 
 
     display.update()
-
-pyinstaller --onefile labirint.py
